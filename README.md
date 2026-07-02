@@ -13,7 +13,21 @@ This repository contains Python implementations of two fundamental sequence alig
 - Local Sequence Alignment
 - Dynamic Programming
 - Finds the highest-scoring matching region between two sequences.
+## 3. Pairwise Sequence Comparison
 
+- Compares two DNA sequences position by position.
+- Calculates:
+  - Total Matches
+  - Total Length
+  - Similarity Percentage
+- Reports match and mismatch at every position.
+
+### Features
+
+- User input sequences
+- Position-wise comparison
+- Similarity percentage calculation
+- Beginner-friendly Python implementation
 ## Features
 
 - User input sequences
